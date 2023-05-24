@@ -1,0 +1,294 @@
+thời gian nào->khi nào
+lúc nào->khi nào
+thời điểm nào->khi nào
+năm bao nhiêu->năm nào
+bao giờ->khi nào
+đâu->nơi nào
+địa điểm nào->nơi nào
+vị trí nào->nơi nào
+người nào->ai
+lý do gì->nguyên nhân nào
+lí do gì->nguyên nhân nào
+lí do nào->nguyên nhân nào
+lý do nào->nguyên nhân nào
+nguyên nhân gì->nguyên nhân nào
+nguyên nhân do đâu->nguyên nhân nào
+tại sao->vì sao
+nhờ đâu->nhờ nguyên nhân nào
+do đâu mà->do nguyên nhân nào mà
+quốc gia nào->nước nào
+trong thời gian nào->khi nào
+cái gì->điều gì
+dựa vào đâu->dựa vào điều gì
+có gì->có điều gì
+hệ quả gì->điều gì
+vấn đề nào->vấn đề gì
+thành phố nào->thành phố gì
+nổi tiếng nào->nổi tiếng gì
+núi nào->núi gì
+sự kiện nào->sự kiện gì
+tên gì->tên là gì
+thế lực nào->thế lực gì
+công trình nào->công trình gì
+biện pháp nào->biện pháp gì
+lĩnh vực nào->lĩnh vực gì
+mặt hàng nào->mặt hàng gì
+công trình lớn nào->công trình lớn gì
+bất cập nào->bất cập gì
+hình ảnh xấu nào->hình ảnh xấu gì
+đại học nào->đại học gì
+dẫn chứng nào->dẫn chứng gì
+tình trạng nào->tình trạng gì
+hình thức nào->hình thức gì
+làn đường nào->làn đường gì
+sân bay lớn nào->sân bay lớn gì
+bằng đường nào->bằng đường gì
+sân bay nào->sân bay gì
+chiếc cầu nào->chiếc cầu gì
+phong cách nào->phong cách gì
+khu rừng nào->khu rừng gì
+bảo tàng nào->bảo tàng gì
+phòng hòa nhạc nào->phòng hòa nhạc gì
+tác phẩm nào->tác phẩm gì
+giai cấp nào->giai cấp gì
+trường phái nào->trường phái gì
+bệnh mới nào->bệnh mới gì
+trận chiến nào->trận chiến gì
+sự chuyển đổi nào->sự chuyển đổi gì
+ngôn ngữ nào->ngôn ngữ gì
+danh sách nào->danh sách gì
+nhóm người nào->nhóm người gì
+tôn giáo nào->tôn giáo gì
+sự kiện thể thao nào->sự kiện thể thao gì
+tỉnh nào->tỉnh gì
+quân đội nào->quân đội gì
+tổ chức nào->tổ chức gì
+mùa nào->mùa gì
+ngân hàng nào->ngân hàng gì
+chứng khoán nào->chứng khoán gì
+kinh tế nào->kinh tế gì
+văn bản nào->văn bản gì
+chrur trương gì->chủ trương gì
+môn thể thao nào->môn thể thao gì
+tàu chiến nào->tàu chiến gì
+hỏa lực nào->hỏa lực gì
+vũ khí nào->vũ khí gì
+căn bệnh nào->căn bệnh gì
+đế quốc nào->nước nào
+cường quốc nào->nước nào
+đạo luật nào->đạo luật gì
+tầng lớp nào->tầng lớp gì
+Đảng nào->đảng gì
+vùng đất nào->vùng đất gì
+danh hiệu nào->danh hiệu gì
+thay đổi nào->thay đổi gì
+nguy hiểm nào->nguy hiểm gì
+tiêu cực nào->tiêu cực gì
+hội đồng nào->hội đồng gì
+quyết định nào->quyết định gì
+hội nghị nào->hội nghị gì
+bang bào->bang gì
+hỗ trợ nào->hỗ trợ gì
+bang nào->bang gì
+cách nào->cách gì
+khu vực nào->khu vực gì
+công ty nào->công ty gì
+hàng hóa nào->hàng hóa gì
+sản phẩm nào->sản phẩm gì
+cơ quan nào->cơ quan gì
+phim nào->phim gì
+thể thao nào->thể thao gì
+bóng đá nào->bóng đá gì
+đặc điểm nào->đặc điểm nào
+sự thay đổi nào->sự thay đổi gì
+cuộc gọi nào->cuộc gọi gì
+nghiên cứu nào->nghiên cứu gì
+đâu là nguồn->nguồn gì
+mô hình nào->mô hình gì
+đâu là tác phẩm->tác phẩm gì
+đâu là sự kiện->sự kiện gì
+quốc tịch gì->là người của nước nào
+chủ nghĩa nào->chủ nghĩa gì
+nền tảng nào->nền tảng gì
+cơ sở nào->cơ sở gì
+ton giáo là gì->tôn giáo là gì
+đâu là tự sự ghẻ lạnh->sự ghẻ lạnh gì
+quá trình nào->quá trình gì
+đâu là sự khởi đầu->sự khởi đầu gì
+đâu là một số thành viên->một số thành viên gì
+đâu là những quốc gia->những nước nào
+đâu là một số bang->bang gì
+đâu là cuốn sách->cuốn sách gì
+trường đại học nào->trường đại học gì
+địa danh nào->địa danh gì
+thư viện nào->thư viện gì
+khu lưu trữ nào->khu lưu trũ gì
+sự kiện lịch sử nào->sự kiện lịch sử gì
+bộ phận nào->bộ phận gì
+có quan nào->cơ quan gì
+nguyên tố nào->nguyên tố gì
+văn minh nào->văn minh gì
+hoạt động nào->hoạt động gì
+dạng nào->dạng gì
+vương quốc nào->vương quốc gì
+công việc nào->công việc gì
+cây nào->cây gì
+chế độ nào->chế độ gì
+gia súc nào->gia súc gì
+đạo nào->đạo gì
+hình ảnh nào->hình ảnh gì
+con số nào->con số gì
+dân tộc nào->dân tộc gì
+lễ hội gì->lễ hội nào
+ngọn núi nào->núi gì
+dòng chữ nào->chữ gì
+quốc tế nào->quốc tế gì
+hệ nào->hệ gì
+quyền lợi nào->quyền lợi gì
+triều đại nào->triều đại gì
+khối quân sự nào->khối quân sự gì
+hiệp ước nào->hiệp ước gì
+điều kiện nào->điều kiện gì
+chính trị nào->chính trị gì
+thể chế nào->thể chế gì
+quan điểm nào->quan điểm gì
+châu lục nào->châu lục gì
+nội dung nào->nội dung gì
+danh nghĩa nào->danh nghĩa gì
+vùng biển nào->vùng biển gì
+rừng nào->rừng gì
+khí hậu nào->khí hậu gì
+yếu tố nào->yếu tố gì
+giáo phái nào->giáo phái gì
+kỳ thi nào->kỳ thi gì
+tiêu chuẩn nào->tiêu chuẩn gì
+văn hóa nào->văn giáo gì
+văn học nào->văn hóa gì
+kiến trúc nào->kiến trúc gì
+món ăn nào->món ăn gì
+truyền hình nào->truyền hình gì
+bộ nào->bộ gì
+loại nào->loại gì
+động vật nào->động vật gì
+thực vật nào->thực vật gì
+địa chất nào->địa chất gì
+phương nào->phương gì
+ếch nhái nào->ếch nhái gì
+họ nào->họ gì
+khoảng nào->khoảng gì
+phong trào nào->phong trào gì
+đế chế nào->đế chế gì
+Đâu là nguồn->Nguồn gì
+Đâu là tự sự ghẻ lạnh->sự ghẻ lạnh gì
+Dân tộc nào->dân tộc gì
+Ngọn núi nào->núi gì
+Tôn giáo nào->tôn giáo gì
+tài liệu nào->tài liệu gì
+quan trọng nào->quan trọng gì
+thành bang nào->thành bang gì
+nền văn minh nào->nền văn mình gì
+vật dụng nào->vật dụng gì
+kim loại nào->kim loại gì
+bộ lạc nào->bộ lạc gì
+đất nước nào->nước nào
+thương mại nào->thương mại gì
+đức tín nào->đức tín gì
+phát triển nào->phát triển gì
+thành công nào->thành công gì
+kết hợp nào->hết hợp gì
+thời kỳ nào->thời kỳ gì
+liên minh nào->liên minh gì
+giao thông nào->giao thông gì
+chuyển biến nào->chuyển biến gì
+tan rã nào->tan rã gì
+đối thủ nào->đối thủ gì
+nguy cơ nào->nguy cơ gì
+mục tiêu nào->mục tiêu gì
+tích cực nào->tích cực gì
+nghệ thuật nào->nghệ thuật gì
+hạng mục nào->hạng mục gì
+câu chuyện nào->câu chuyện gì
+truyền thuyết nào->truyền thuyết gì
+quý tộc nào->quý tộc gì
+chiến tranh nào->chiến tranh gì
+hệ quả nào->hệ quả gì
+đấu tranh nào->đấu tranh gì
+tàn phá nào->tàn phá gì
+gia đình nào->gia đình gì
+con đường nào->con đường gì
+ chia ra sa->chia thành gì
+văn chương nào->văn chương gì
+biệt thự nào->biệt thự gì
+điểm nào->điểm gì
+bức tượng nào->bức tượng gì
+tưởng niệm nào->tưởng niệm gì
+cột nào->cột gì
+cây cầu nào->cây cầu gì
+ngành nào->nghành gì
+trường nào->trường gì
+Đâu là những thư viện->những thư viện gì
+hiện đại nào->hiện đại gì
+hãng nào->hãng gì
+thời trang nào->thời trang gì
+món nào->món gì
+đội nào->đội gì
+bóng rổ nào->bóng rổ gì
+tàu điện ngầm nào->tàu điện ngầm gì
+phương tiện nào->phương tiện gì
+khoáng vật nào->khoáng vật gì
+hình dạng nào->hình dạng gì
+chất nào->chất gì
+đa hình nào->đa hình gì
+tính chất nào->tính chất gì
+kim hoàn nào->kim hoàn gì
+công thức nào->công thức gì
+hướng nào->hướng gì
+cuộc chiến nào->cuộc chiến gì
+kỷ lục nào->kỷ lục gì
+kế hoạch nào->kế hoạch gì
+cảng nào->cảng gì
+lời thề nào->lời thề gì
+quyền lực nào->quyền lực gì
+gió nào->gió gì
+đội bóng nào->đội bóng gì
+mùa giải nào->mùa giải gì
+cao tốc nào->cao tốc gì
+đường sắt nào->đường sắt gì
+quyền hành nào->quyền hành gì
+quy mô nào->quy mô gì
+khái niệm nào->khái niệm gì
+định nghĩa nào->định nghĩa gì
+tác động nào->tác động gì
+con sông nào->con sông gì
+chủ yếu nào->chủ yếu gì
+phổ biến->phổ biến gì
+đơn vị nào->đơn vị gì
+vận tải nào->vận tải gì
+xa lộ nào->xa lộ gì
+đô thị nào->đô thị gì
+cao cấp nào->cao cấp gì
+tờ báo nào->tờ báo gì
+ngoại ngữ nào->ngoại ngữ gì
+phim lớn nào->phim lớn gì
+sinh vật nào->sinh vật gì
+nguyên thủy nào->nguyên thủy gì
+diệp lục nào->diệp lục gì
+loài nào->loài gì
+cấu tạo nào->cấu tạo gì
+hành tinh nào->hành tinh gì
+nấm nào->nấm gì
+bằng chứng nào->bằng chứng gì
+phóng xạ nào->lĩnh vực gì
+hành chính nào->hành chính gì
+phiên bản nào->phiên bản gì
+trường hợp nào->trường hợp gì
+căn cứ nào->căn cứ gì
+thuật ngữ nào->thuật ngữ gì
+định dạng nào->định dạng gì
+kĩ thuật nào->kĩ thuật gì
+công cụ nào->công cụ gì
+bất lợi nào->bất lợi gì
+nghề nghiệp nào->nghề nghiệp gì
+kỹ năng nào->kỹ năng gì
+khu định cư nào->khu định cư gì
+xưởng nào->xưởng g
